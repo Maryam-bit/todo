@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Maryam-bit/todo.git/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Maryam-bit/todo.git/static/js/main.f43a7205.chunk.js",
+    "main.js.map": "/Maryam-bit/todo.git/static/js/main.f43a7205.chunk.js.map",
+    "runtime-main.js": "/Maryam-bit/todo.git/static/js/runtime-main.0e8010b7.js",
+    "runtime-main.js.map": "/Maryam-bit/todo.git/static/js/runtime-main.0e8010b7.js.map",
+    "static/js/2.3494eab5.chunk.js": "/Maryam-bit/todo.git/static/js/2.3494eab5.chunk.js",
+    "static/js/2.3494eab5.chunk.js.map": "/Maryam-bit/todo.git/static/js/2.3494eab5.chunk.js.map",
+    "index.html": "/Maryam-bit/todo.git/index.html",
+    "precache-manifest.216d14150b8bc22240361142145397d0.js": "/Maryam-bit/todo.git/precache-manifest.216d14150b8bc22240361142145397d0.js",
+    "service-worker.js": "/Maryam-bit/todo.git/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/Maryam-bit/todo.git/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.3494eab5.chunk.js.LICENSE.txt": "/Maryam-bit/todo.git/static/js/2.3494eab5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e8010b7.js",
+    "static/js/2.3494eab5.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.f43a7205.chunk.js"
+  ]
+}
